@@ -31,4 +31,4 @@ Following the book The Nature Of Code - https://natureofcode.com/book/
 
 ![StatechartDiagram-Product](https://user-images.githubusercontent.com/32382605/211603201-40921bbf-bc45-4602-aad0-50cd489f7a6e.jpg)
 
-![image](https://user-images.githubusercontent.com/32382605/211776746-fca078df-1c8b-48d4-be46-422013119da6.png)
+![image](https://user-images.githubusercontent.com/32382605/211776923-a5a851b0-8bb9-46be-9ef0-fec80ede1d3d.png)
