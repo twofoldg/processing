@@ -10,6 +10,10 @@ Following the book The Nature Of Code - https://natureofcode.com/book/
 //Sequence Diagram
 ![SequenceDiagram-Редактиране на фирма](https://user-images.githubusercontent.com/32382605/211601868-9e03459b-c29f-4dfd-ae4e-d4987c4a93eb.jpg)
 
+//Communication Diagram
+
+![CommunicationDiagram-Създаванена продукт](https://user-images.githubusercontent.com/32382605/211765994-ab448679-e035-4ea0-b35f-912fc6bdc8ba.jpg)
+
 //Activity Diagram 
 
 ![image](https://user-images.githubusercontent.com/32382605/211602530-3d0063de-7ec5-42a0-be21-09fe04a9ffc7.png)
